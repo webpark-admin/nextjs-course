@@ -1,0 +1,21 @@
+{
+	"movies": [
+		{
+			"id": 1,
+			"name": "The Lion King Returns",
+			"description": "The Lion King is a 1994 American animated musical drama film[4] produced by Walt Disney Feature Animation and released by Walt Disney Pictures. It is the 32nd Disney animated feature film and the fifth animated film produced during a period known as the Disney Renaissance. The Lion King was directed by Roger Allers and Rob Minkoff (in their feature directorial debuts) and produced by Don Hahn, from a screenplay by Irene Mecchi, Jonathan Roberts, and Linda Woolverton. Its original songs were written by composer Elton John and lyricist Tim Rice, with a score by Hans Zimmer. The film features an ensemble voice cast that includes Matthew Broderick, James Earl Jones, Jeremy Irons, Jonathan Taylor Thomas, Moira Kelly, Nathan Lane, Ernie Sabella, Rowan Atkinson, Robert Guillaume, Madge Sinclair (in her last film role), Whoopi Goldberg, Cheech Marin, and Jim Cummings."
+		},
+
+		{
+			"id": 2,
+			"name": "The Croods",
+			"description": "The Croods is a 2013 American computer-animated adventure comedy film produced by DreamWorks Animation and distributed by 20th Century Fox. The film was written and directed by Kirk DeMicco and Chris Sanders,[6] and stars the voices of Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Clark Duke, and Cloris Leachman. The film is set in a fictional prehistoric Pliocene era known as 'The Croodaceous' (a prehistoric period which contains fictional creatures) when a prehistoric caveman's position as a 'Leader of the Hunt' is threatened by the arrival of a genius who comes up with revolutionary new inventions as they trek through a dangerous but exotic land in search of a new home."
+		},
+
+		{
+			"id": 3,
+			"name": "The Revenge (2017)",
+			"description": "Revenge is a 2017 French action thriller film written and directed by Coralie Fargeat, and starring Matilda Lutz, Kevin Janssens, Vincent Colombe and Guillaume Bouchède. The plot follows a young woman who is assaulted and left for dead in the desert by three men, where she recovers and seeks vengeance upon her attackers."
+		}
+	]
+}
